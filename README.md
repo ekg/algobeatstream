@@ -1,7 +1,7 @@
-# tidalcycles internet radio
+# algobeats internet radio
 
-This sets up a shared tidalcycles environment on a cloud host.
-TidalCycles, coded via extramuros, is streamed over a shoutcast ogg stream.
+This sets up a shared tidalcycles or foxdot environment on a cloud host.
+TidalCycles or FoxDot, coded via extramuros, is streamed over a shoutcast ogg stream.
 
 ## depends
 
